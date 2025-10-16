@@ -1,0 +1,98 @@
+# ----------------------------
+# Python & Flask Project
+# ----------------------------
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+env/
+translator/
+translator-env/
+.venv/
+
+# Logs and debug
+*.log
+*.out
+*.pid
+*.gz
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# IDE / editor
+.vscode/
+.idea/
+*.code-workspace
+
+# OS / system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Environment & credentials
+.env
+.env.local
+.env.production
+.env.development
+credentials.csv
+firebase-key.json
+serviceAccountKey.json
+*.pem
+*.key
+*.crt
+
+# AWS / cloud config
+*.aws/
+.aws/
+*.boto
+*.ini
+
+# Firebase / deployment logs
+.firebase/
+firebase-debug.log
+
+# Node / frontend (if using React or similar for UI)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# PyInstaller
+*.manifest
+*.spec
+
+# VSCode
+.history/
+.vscode/
+
+# Environment variables
+.env
+.env.*
+
